@@ -1,7 +1,6 @@
-Hi 👋 My name is José Iván
-==========================
+![Header](./images/github-header-image.png)
 
-Software Developer
+
 ------------------
 
 I have been learning to write code and develop software since my specialization in high school, and I further strengthened these skills in university. Throughout my academic and professional journey, I've worked on various projects, creating technological solutions that optimize processes and improve communication. My focus ranges from building web applications to integrating APIs, always aiming for efficiency and high-quality development. I'm driven by continuous learning and passionate about finding new ways to enhance my skills as a developer.
